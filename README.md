@@ -1,2 +1,3 @@
-# rust_-numerical_computation
-Learning how to use of Rust Numerical Data Type Methods
+# Numerical Computation in Rust Programming language
+
+Learning Numerical Computation
