@@ -1,31 +1,30 @@
 // main.rs
-// Date: Thu Oct 29 2026
+// Date: Mon Nom 23 2026
 // Educational and Practice Rust Programming Language Code
 
-// Project: Learning Numeric Computation
+// Project: Numeric Data Type
 // Goal: ...
-// Dependency: Without any dependency
+// Dependency: ...
 
-// rustc 1.101.0-nightly (16d1ffac1 2026-10-26)
+// Kernel Version: 7.3.4-300.fc45.x86_64
+
+// rustc 1.102.0-nightly (5df8c02af 2026-11-16)
 // binary: rustc
-// commit-hash: 16d1ffac17ad8b739e32483ac2e65fe7e1804977
-// commit-date: 2026-10-26
+// commit-hash: 5df8c02afdf6b882bc301442cea70f026e3d3974
+// commit-date: 2026-11-16
 // host: x86_64-unknown-linux-gnu
-// release: 1.101.0-nightly
-// LLVM version: 23.1.4
- 
-// cargo 1.101.0-nightly (cad07cf8e 2026-10-23)
-// release: 1.101.0-nightly
-// commit-hash: cad07cf8e597397fff5d0f6cb79c9f870c0b1dd2
-// commit-date: 2026-10-23
+// release: 1.102.0-nightly
+// LLVM version: 23.1.5
+
+// cargo 1.102.0-nightly (ede6cefea 2026-11-11)
+// release: 1.102.0-nightly
+// commit-hash: ede6cefea9731cb595942338824c2f9a610b8189
+// commit-date: 2026-11-11
 // host: x86_64-unknown-linux-gnu
 // libgit2: 1.9.6 (sys:0.21.0 vendored)
 // libcurl: 8.21.0-DEV (sys:0.4.90+curl-8.21.0 vendored ssl:OpenSSL/3.6.3)
 // ssl: OpenSSL 3.6.3 9 Jun 2026
-// os: Fedora 44.0.0 [64-bit]
-
-// Kernel Version: 7.2.13-200.fc44.x86_64
-// Firmware Version: 71CN51WW(V1.21)
+// os: Fedora 45.0.0 [64-bit]
 
 fn main() {
     println!("\n");
